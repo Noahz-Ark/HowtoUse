@@ -21,6 +21,6 @@ int third(void) {
 }
 
 int fourth(void) {
-  print("four\n");
+  print("fourth\n");
   return 0;
 }

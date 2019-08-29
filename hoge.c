@@ -14,3 +14,8 @@ int second(void) {
   print("second\n");
   return 0;
 }
+
+int fourth(void) {
+  print("four\n");
+  return 0;
+}

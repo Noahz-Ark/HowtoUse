@@ -19,3 +19,8 @@ int third(void) {
   print("third\n");
   return 0;
 }
+
+int fourth(void) {
+  print("fourth\n");
+  return 0;
+}

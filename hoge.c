@@ -15,7 +15,12 @@ int second(void) {
   return 0;
 }
 
+int third(void) {
+  print("third\n");
+  return 0;
+}
+
 int fourth(void) {
-  print("four\n");
+  print("fourth\n");
   return 0;
 }

@@ -24,3 +24,7 @@ int fourth(void) {
   print("fourth\n");
   return 0;
 }
+
+int hoge(void) {
+  return 0;
+}
